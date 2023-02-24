@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Josefin+Sans:ital,wght@0,100;1,100&family=Patrick+Hand&family=Silkscreen&display=swap');
+
+
+body{
+   
+    background-color:rgb(229, 208, 241);
+    
+    
+}
+
+.container{
+    display: flex;
+    color: red;
+   ;
+}    
+
+.cont1{
+    display: block;
+    margin-top: 60px;
+    background-color: rgb(236, 241, 243);
+    color: rgb(12, 3, 3);
+    margin-left: 15%;
+    /* margin-right: 640px; */
+    width:30%;
+ 
+    
+    /* padding: 235px 205px; */
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 120px;
+    padding-bottom: 250px;
+    border: 1px solid white;
+    outline: 1px solid black;
+    outline-offset: -17px;
+    font-family: 'Babylonica', cursive;
+   
+}
+.container img{
+    
+    display:block ;
+    width: 394px;
+    height: 537px;
+    margin-left:-60px;
+    border-radius: 180px 180px 0px 0px;
+    border: 1px solid rgb(15, 14, 14);
+    cursor: none;
+}
+   
+.second p{
+    font-size: 40px;
+    text-align: center;
+    margin-top: -135px;
+}
+
+.second h1{
+    font-size: 90px;
+    text-align: center;
+    font-weight: lighter;
+    opacity: 0.14;
+}
+
+.third{
+    font-size: 23px;
+    padding: 4px 90px;
+}
+
+.forth{
+    display: flex;
+    list-style-type: none;
+    margin:30px 190px;
+    font-size: 23px;
+    font-family: 'Babylonica', cursive;
+    
+}
+.five{
+   font-size: 30px;
+   margin-top:60px;
+   text-align:center;
+   border: 2px dashed rgb(161, 158, 161);
+   
+   
+}
+
+.six li{
+    display: flex;
+}
+
+.six ul{
+    
+    list-style-type: none;
+  
+    margin:40px 130px;
+    font-size: 20px;
+    font-family: 'Mukta', sans-serif;
+    color: black;
+    text-decoration: solid;
+    line-height:50px;
+}
+
+.six img{
+    width: 50px;
+    height:50px;
+    cursor: pointer;
+}
+
+.seven h1{
+    font-size: 43px;
+    padding: 20px 90px;
+    text-align: center;
+}
+
+.eight{
+    display: flex;
+    list-style-type: none;
+    margin: 40px 120px;
+    font-size: 20px;
+}
+.eight1{
+    margin-left: 200px;
+}
